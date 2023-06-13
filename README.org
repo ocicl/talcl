@@ -1,0 +1,10 @@
+* talcl
+
+A common lisp library that implements the tal template language (a significant branch of arnesi/ucw tal)
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/AccelerationNet/talcl.git   |
+| commit  | eb9ae80  |
+| systems | talcl |
+|---------+-------------------------------------------|
+
